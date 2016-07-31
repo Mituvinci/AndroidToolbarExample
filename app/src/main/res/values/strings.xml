@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidToolbarExample</string>
+    <string name="toolbarTitle">This is the Toolbar</string>
+</resources>
